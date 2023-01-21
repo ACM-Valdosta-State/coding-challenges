@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 // Binary Tree class
-public class Expert{
+public class ChallengeOne{
 	// Node class
 	public class Node{
 		int value;
@@ -35,7 +35,7 @@ public class Expert{
 	// instance of BinarySearchTree
 	Node root;
 	// Constructor
-	public Expert() {}
+	public ChallengeOne() {}
 	
 	/*
 	 * Make array that holds the numerical char values of each word in string array
@@ -112,7 +112,7 @@ public class Expert{
 		
 		
 		
-		Expert bst = new Expert();
+		ChallengeOne bst = new ChallengeOne();
 		Node n = bst.constructBinarySearchTree(words);
 		
 		parentToNode(n);
