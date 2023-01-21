@@ -2,7 +2,7 @@ package meeting1;
 
 import java.util.Scanner;
 
-public class Beginner {
+public class Main {
 
 	public static void main(String[] args) {
 		// Array to hold the surface gravity of each planet
