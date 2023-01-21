@@ -2,7 +2,7 @@ package meeting1;
 
 import java.util.Scanner;
 
-public class Intermediate {
+public class ChallengeOne {
 	public static void main(String[]args) {
 		// For getting input
 		Scanner input = new Scanner(System.in);
